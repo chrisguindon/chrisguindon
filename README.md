@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Christopher Guindon
 
-<!--
-**chrisguindon/chrisguindon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As **Director of Software Development** at the [Eclipse Foundation](https://www.eclipse.org/org/foundation/staff.php), I lead the team responsible for the software behind one of the world’s leading vendor-neutral open source foundations.
 
-Here are some ideas to get you started:
+In this role, I provide strategic and operational leadership for the software platforms that power the Eclipse open source ecosystem, supporting more than **400 open source projects** and a global community of over **15,000 contributors**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, I enjoy playing the drums, watching sports, golfing, and playing video games.
+
+## We're Hiring
+
+My team at the Eclipse Foundation is currently hiring engineers interested in building software that supports a global open source ecosystem.
+
+- Software Developer  
+  https://eclipsefoundation.applytojob.com/apply/mvaSS7T8Ox/Software-Developer
+
+- Security Software Engineer  
+  https://eclipsefoundation.applytojob.com/apply/eXFgacP5SJ/Security-Software-Engineer
+
+## Let's Connect
+
+- Website: https://www.chrisguindon.com
+- LinkedIn: https://www.linkedin.com/in/chrisguindon/
+- Mastodon: https://fosstodon.org/@chrisguindon
+- Twitter/X: https://twitter.com/chrisguindon
+- Eclipse Foundation: https://accounts.eclipse.org/users/cguindon
