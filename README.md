@@ -13,7 +13,7 @@ My team at the Eclipse Foundation is currently hiring engineers interested in bu
 - Software Developer  
   https://eclipsefoundation.applytojob.com/apply/mvaSS7T8Ox/Software-Developer
 
-- Software Engineer, Java and Spring Boot 
+- Software Engineer, Java and Spring Boot  
   https://eclipsefoundation.applytojob.com/apply/WgKAj80UK4/Software-Engineer-Java-And-Spring-Boot
 
 ## Let's Connect
