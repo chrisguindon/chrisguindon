@@ -10,11 +10,9 @@ Outside of work, I enjoy playing the drums, watching sports, golfing, and playin
 
 My team at the Eclipse Foundation is currently hiring engineers interested in building software that supports a global open source ecosystem.
 
-- Software Developer  
-  https://eclipsefoundation.applytojob.com/apply/mvaSS7T8Ox/Software-Developer
+- Front-End Web Developer 
+  https://eclipsefoundation.applytojob.com/apply/9on6pUD4qF/FrontEnd-Web-Developer
 
-- Software Engineer, Java and Spring Boot  
-  https://eclipsefoundation.applytojob.com/apply/WgKAj80UK4/Software-Engineer-Java-And-Spring-Boot
 
 ## Let's Connect
 
